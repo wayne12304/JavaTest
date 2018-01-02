@@ -15,7 +15,7 @@ public class Grade {
 		grade = 'D';
 		else
 		grade ='F';
-		return grade;
+		return grade; 
 	}
 }
 
